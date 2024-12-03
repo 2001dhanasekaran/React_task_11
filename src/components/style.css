@@ -1,0 +1,6 @@
+.welcome{
+    /* background-color: rgb(207, 206, 206); */
+    background-image: url(product_imgs/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
